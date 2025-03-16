@@ -1,0 +1,15 @@
+Terms of Service
+(for Computer Pre-Order)
+
+Last Updated: [DATE]
+
+1. Introduction 
+Welcome to [Company Name] (“Company,” “we,” “our,” or “us”). 
+These Terms of Service (“Terms”) govern the pre-order purchase of our devices (the “Product”) through our website or authorized sales channels. By placing a pre-order, you (“Customer,” “you,” or “your”) agree to these Terms. If you do not agree, do not place a pre-order.
+
+1. Acceptance of Agreement
+
+The Customer acknowledges and agrees that they have read, understood, and accepted all terms and conditions outlined herein. By engaging with Avalanche Computing's products and services, the Customer commits to adhering to these Terms of Service and all relevant legal requirements. Should the Customer disagree with any aspect of these terms, they are advised not to proceed with any purchases or utilization of Avalanche Computing's offerings. Avalanche Computing retains the authority to amend these Terms of Service at its discretion, with the most current version accessible on our official website. Continued engagement with our products and services implies the Customer's acceptance of any such modifications.
+
+Software services are governed by the Software License Agreement found at [Insert Avalanche Computing's Software License Agreement Link]. 
+Our Privacy Policy is available at [Insert Avalanche Computing's Privacy Policy Link].
